@@ -16,7 +16,7 @@ A simple Python script that analyzes email text to detect phishing attempts by i
 
 ## Sample Output
 
-![Output Screenshot](output_screenshot.png)
+![Output Screenshot](output_screenshot.jpg)
 
 ---
 
